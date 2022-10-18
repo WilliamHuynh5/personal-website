@@ -73,6 +73,14 @@ code {
   width: 15rem;
   margin-top: 4rem;
   border-radius: 0.5rem;
+  transition: 0.5s;
+}
+
+.profile-image-large:hover {
+  width: 18rem;
+  margin-top: 4rem;
+  border-radius: 0.5rem;
+  transition: 0.5s;
 }
 
 .profile-image-small {
@@ -81,3 +89,33 @@ code {
   margin-bottom: 2rem;
 }
 
+.profile-icons {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon-git {
+  width: 4rem;
+  margin-right: 1rem;
+  border-radius: 5px;
+  transition: .5s;
+}
+
+.icon-git:hover {
+  cursor: pointer;
+  width: 4.5rem;
+  transition: .5s;
+}
+
+.icon-linked {
+  width: 4rem;
+  margin-left: 1rem;
+  transition: .5s;
+}
+
+.icon-linked:hover {
+  cursor: pointer;
+  width: 4.5rem;
+  transition: .5s;
+}

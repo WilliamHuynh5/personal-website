@@ -2,6 +2,9 @@ import React from 'react';
 import NavBar from '../components/NavBar';
 import '../index.css';
 import cat from '../assets/cat.png'
+import githubLogo from '../assets/github-logo.png'
+import linkedinLogo from '../assets/linkedin-logo.png'
+
 
 
 const HomePage = () => {
@@ -19,11 +22,12 @@ const HomePage = () => {
           </div>
           <div className="profile-right">
             <img src={cat} className="profile-image-large"></img>
-            {/* <p>
-              I don't have a professional photo yet, so enjoy this picture of
-              my cat instead :)
-            </p> */}
           </div>
+        </div>
+        
+        <div className="profile-icons">
+          <img className="icon-git" src={githubLogo}></img>
+          <img className="icon-linked" src={linkedinLogo}></img>
         </div>
       </div>
       
