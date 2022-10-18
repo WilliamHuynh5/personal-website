@@ -26,6 +26,34 @@ code {
   margin-top: 3rem;
 }
 
+@media (min-width: 801px) {
+  .profile-image-small {
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  .profile {
+    width: 20rem;
+    height: auto;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile-left {
+    max-width: 20rem;
+  }
+  
+  .profile-right {
+    max-width: 20rem;
+  }
+  
+  .profile-image-large {
+    display: none;
+  }
+}
+
 .profile-left {
   width: 40rem;
 }
@@ -41,8 +69,15 @@ code {
   margin-bottom: 1rem;
 }
 
-.profile-image {
+.profile-image-large {
   width: 15rem;
   margin-top: 4rem;
   border-radius: 0.5rem;
 }
+
+.profile-image-small {
+  width: 19rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
