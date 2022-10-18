@@ -39,6 +39,7 @@ code {
     margin:auto;
     display: flex;
     flex-direction: column;
+    margin-top: 1rem;
   }
   
   .profile-left {
@@ -76,12 +77,12 @@ code {
   transition: 0.5s;
 }
 
-.profile-image-large:hover {
+/* .profile-image-large:hover {
   width: 18rem;
   margin-top: 4rem;
   border-radius: 0.5rem;
   transition: 0.5s;
-}
+} */
 
 .profile-image-small {
   width: 19rem;
