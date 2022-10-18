@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WilliamHuynh5.github.io/static/css/main.4d6f95f3.css",
+    "main.js": "/WilliamHuynh5.github.io/static/js/main.f00d76a4.js",
+    "static/js/787.5809834d.chunk.js": "/WilliamHuynh5.github.io/static/js/787.5809834d.chunk.js",
+    "static/media/cat.png": "/WilliamHuynh5.github.io/static/media/cat.985007f0808f4a316cd1.png",
+    "index.html": "/WilliamHuynh5.github.io/index.html",
+    "main.4d6f95f3.css.map": "/WilliamHuynh5.github.io/static/css/main.4d6f95f3.css.map",
+    "main.f00d76a4.js.map": "/WilliamHuynh5.github.io/static/js/main.f00d76a4.js.map",
+    "787.5809834d.chunk.js.map": "/WilliamHuynh5.github.io/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6f95f3.css",
+    "static/js/main.f00d76a4.js"
+  ]
+}
