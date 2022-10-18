@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.homepage {
+  width: 100vw;
+  height: 80vh;
+}
+
+.profile {
+  width: 50rem;
+  height: 30rem;
+  margin:auto;
+  display: flex;
+  flex-direction: row;
+  margin-top: 3rem;
+}
+
+.profile-left {
+  width: 40rem;
+}
+
+.profile-right {
+  margin-left: 3rem;
+  width: 20rem;
+}
+
+.profile-title {
+  font-family: inherit;
+  font-weight: lighter;
+  margin-bottom: 1rem;
+}
+
+.profile-image {
+  width: 15rem;
+  margin-top: 4rem;
+  border-radius: 0.5rem;
+}
