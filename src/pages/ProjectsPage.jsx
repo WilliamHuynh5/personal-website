@@ -19,7 +19,7 @@ const ProjectsPage = () => {
       <div style={{marginBottom: '3rem'}}></div>
       <Carousel variant="dark">
         <Carousel.Item>
-          <div class="d-flex justify-content-center">
+          <div class="d-flex justify-content-center" >
             <img
               className="carousel-image"
               src={vgImg}
@@ -72,12 +72,13 @@ const ProjectsPage = () => {
               alt="Third slide"
             />
           </div>
+          <div style={{marginBottom:'3px'}}></div>
           <Carousel.Caption>
             <h3>Price Alert CLI</h3>
             <p>
-            A command line application for those interested in tracking the price of video games, both physical and digital.
+            A command line application for scraping price of video games. Features SMS alerts and PDF catalogue generation.
             </p>
-            <p>Features SMS alerts and PDF catalogue generation.</p>
+            <p></p>
           </Carousel.Caption>
         </Carousel.Item>
         
