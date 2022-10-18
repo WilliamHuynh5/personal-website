@@ -6,7 +6,7 @@ const BlogPage = () => {
   return (
     <>
       <NavBar></NavBar>
-      <h1>Coming Soon</h1>
+      <h1 style={{textAlign: 'center'}}>Coming Soon</h1>
     </>
   )
 }

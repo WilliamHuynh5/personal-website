@@ -7,7 +7,9 @@ const ResumePage = () => {
   return (
     <>
       <NavBar></NavBar>
-      <h1>Coming Soon</h1>
+      <h1 className="tab-title">
+        <span style={{fontWeight: 'bold'}}>my</span> resumè
+      </h1> 
     </>
   )
 }

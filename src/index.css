@@ -70,6 +70,15 @@ code {
   margin-bottom: 1rem;
 }
 
+.tab-title {
+  font-family: inherit;
+  font-weight: lighter;
+  margin-bottom: 1rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+
 .profile-image-large {
   width: 15rem;
   margin-top: 4rem;
@@ -119,4 +128,20 @@ code {
   cursor: pointer;
   width: 4.5rem;
   transition: .5s;
+}
+
+.carousel-image {
+  max-width: 40rem;
+  margin: auto;
+  margin-bottom: 15rem;
+  border-radius: 5px;
+}
+
+@media (max-width: 650px) {
+  .carousel-image {
+    max-width: 20rem;
+    margin: auto;
+    margin-bottom: 15rem;
+    border-radius: 5px;
+  }
 }
