@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/WilliamHuynh5.github.io/static/css/main.e86174f6.css",
-    "main.js": "/WilliamHuynh5.github.io/static/js/main.c2615a58.js",
-    "static/js/787.5809834d.chunk.js": "/WilliamHuynh5.github.io/static/js/787.5809834d.chunk.js",
-    "static/media/cat.png": "/WilliamHuynh5.github.io/static/media/cat.985007f0808f4a316cd1.png",
-    "static/media/vg-img.png": "/WilliamHuynh5.github.io/static/media/vg-img.2415922dc8a8cf3ba475.png",
-    "static/media/pw-img.png": "/WilliamHuynh5.github.io/static/media/pw-img.58f5532f455afc278a4b.png",
-    "static/media/yt-img.png": "/WilliamHuynh5.github.io/static/media/yt-img.2e8b7fd47366fa9c6d21.png",
-    "static/media/vg-cli-img.png": "/WilliamHuynh5.github.io/static/media/vg-cli-img.48924611ddb0f7cc345c.png",
-    "index.html": "/WilliamHuynh5.github.io/index.html",
-    "main.e86174f6.css.map": "/WilliamHuynh5.github.io/static/css/main.e86174f6.css.map",
-    "main.c2615a58.js.map": "/WilliamHuynh5.github.io/static/js/main.c2615a58.js.map",
-    "787.5809834d.chunk.js.map": "/WilliamHuynh5.github.io/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/static/css/main.e86174f6.css",
+    "main.js": "/static/js/main.748fd757.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/cat.png": "/static/media/cat.985007f0808f4a316cd1.png",
+    "static/media/vg-img.png": "/static/media/vg-img.2415922dc8a8cf3ba475.png",
+    "static/media/pw-img.png": "/static/media/pw-img.58f5532f455afc278a4b.png",
+    "static/media/yt-img.png": "/static/media/yt-img.2e8b7fd47366fa9c6d21.png",
+    "static/media/vg-cli-img.png": "/static/media/vg-cli-img.48924611ddb0f7cc345c.png",
+    "index.html": "/index.html",
+    "main.e86174f6.css.map": "/static/css/main.e86174f6.css.map",
+    "main.748fd757.js.map": "/static/js/main.748fd757.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e86174f6.css",
-    "static/js/main.c2615a58.js"
+    "static/js/main.748fd757.js"
   ]
 }
