@@ -9,9 +9,9 @@ const NavBar = (props) => {
     <Container>
       <Navbar.Brand href="#home"></Navbar.Brand>
       <Nav>
-        <Nav.Link href="#home">Home</Nav.Link>
-        <Nav.Link href="#features">Features</Nav.Link>
-        <Nav.Link href="#pricing">Pricing</Nav.Link>
+        <Nav.Link href="#home">resumé</Nav.Link>
+        <Nav.Link href="#features">projects</Nav.Link>
+        <Nav.Link href="#pricing">blog</Nav.Link>
       </Nav>
     </Container>
   </Navbar>

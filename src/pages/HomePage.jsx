@@ -26,8 +26,13 @@ const HomePage = () => {
         </div>
         
         <div className="profile-icons">
-          <img className="icon-git" src={githubLogo}></img>
-          <img className="icon-linked" src={linkedinLogo}></img>
+          <a href="https://github.com/WilliamHuynh5" target="_blank">
+            <img className="icon-git" src={githubLogo}></img>
+          </a>
+          <a href="https://www.linkedin.com/in/william-huynh-582b62214/" target="_blank">
+            <img className="icon-linked" src={linkedinLogo}></img>
+          </a>
+          
         </div>
       </div>
       
