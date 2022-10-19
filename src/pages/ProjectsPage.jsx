@@ -2,7 +2,6 @@ import React from 'react';
 import '../index.css';
 import NavBar from '../components/NavBar';
 import Carousel from 'react-bootstrap/Carousel';
-import githubLogo from '../assets/github-logo.png'
 import vgImg from '../assets/vg-img.png'
 import ytImg from '../assets/yt-img.png'
 import pwImg from '../assets/pw-img.png'
