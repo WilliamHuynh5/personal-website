@@ -1,6 +1,6 @@
 # Personal Website
 
-https://williamhuynh.netlify.app
+[williamhuynh.netlify.app](https://williamhuynh.netlify.app)
 
 My personal website. Currently a WIP.
 
