@@ -18,7 +18,12 @@ const HomePage = () => {
                   <span style={{fontWeight: 'bold'}}>William</span> Huynh
             </h1> 
             <img src={cat} className="profile-image-small"></img>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <p>Hi! I'm Will :)</p>
+            <br></br>
+            <p>I'm a third-year student studying <span style={{fontWeight: 'bold'}}>Computer Science</span> at the <span style={{fontWeight: 'bold'}}>University of New South Wales.</span></p>
+            <p>I also casually teach at the <span style={{fontWeight: 'bold'}}>School of Computer Science and Engineering</span> as well!</p>
+            <p>I enjoy tinkering around with old consoles, and spending way too much time playing story-oriented video games (please help).</p>
+            <p>But anyways, welcome to my website! ^^""</p>
           </div>
           <div className="profile-right">
             <img src={cat} className="profile-image-large"></img>

@@ -146,18 +146,31 @@ code {
   }
 }
 
-@media (max-width: 485px) {
-  .resume-image {
-    width: 20rem;
-    transition: 1s;
-  }
-}
-
 .resume-image {
   width: 30rem;
   transition: 1s;
 }
 
 .resume-image:hover {
-  width: 60rem;
+  width: 60%;
+}
+
+@media (max-width: 470px) {
+  .resume-image {
+    width: 28rem;
+    transition: 1s;
+  }
+  .resume-image:hover {
+    width: 29rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .resume-image {
+    width: 20rem;
+    transition: 1s;
+  }
+  .resume-image:hover {
+    width: 23rem;
+  }
 }
