@@ -17,7 +17,7 @@ const ProjectsPage = () => {
         <span style={{fontWeight: 'bold'}}>my</span> projects
       </h1>     
       <div style={{marginBottom: '3rem'}}></div>
-      <Carousel variant="dark">
+      <Carousel variant="dark" interval={5000} ride="carousel">
         <Carousel.Item>
           <div class="d-flex justify-content-center" >
             <img
