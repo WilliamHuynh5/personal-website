@@ -26,34 +26,7 @@ code {
   margin-top: 3rem;
 }
 
-@media (min-width: 801px) {
-  .profile-image-small {
-    display: none;
-  }
-}
 
-@media (max-width: 800px) {
-  .profile {
-    width: 20rem;
-    height: auto;
-    margin:auto;
-    display: flex;
-    flex-direction: column;
-    margin-top: 1rem;
-  }
-  
-  .profile-left {
-    max-width: 20rem;
-  }
-  
-  .profile-right {
-    max-width: 20rem;
-  }
-  
-  .profile-image-large {
-    display: none;
-  }
-}
 
 .profile-left {
   width: 40rem;
@@ -172,5 +145,34 @@ code {
   }
   .resume-image:hover {
     width: 23rem;
+  }
+}
+
+@media (min-width: 801px) {
+  .profile-image-small {
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  .profile {
+    width: 20rem;
+    height: auto;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+  }
+  
+  .profile-left {
+    max-width: 20rem;
+  }
+  
+  .profile-right {
+    max-width: 20rem;
+  }
+  
+  .profile-image-large {
+    display: none;
   }
 }

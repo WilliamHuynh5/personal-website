@@ -22,8 +22,8 @@ const HomePage = () => {
             <br></br>
             <p>I'm a third-year student studying <span style={{fontWeight: 'bold'}}>Computer Science</span> at the <span style={{fontWeight: 'bold'}}>University of New South Wales.</span></p>
             <p>I also casually teach at the <span style={{fontWeight: 'bold'}}>School of Computer Science and Engineering</span> as well!</p>
-            <p>I enjoy tinkering around with old consoles, and spending way too much time playing story-oriented video games (please help).</p>
-            <p>But anyways, welcome to my website! ^^""</p>
+            <p>I enjoy tinkering around with old consoles, and spending way too much time playing story-oriented video games.</p>
+            <p>But anyways, welcome to my website! ^^</p>
           </div>
           <div className="profile-right">
             <img src={cat} className="profile-image-large"></img>
@@ -39,10 +39,8 @@ const HomePage = () => {
           </a>
           
         </div>
-      </div>
-      
-      
-      
+        
+      </div>      
     </>
   )
 
