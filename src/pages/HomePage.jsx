@@ -34,7 +34,7 @@ const HomePage = () => {
           <a href="https://github.com/WilliamHuynh5" target="_blank">
             <img className="icon-git" src={githubLogo}></img>
           </a>
-          <a href="https://www.linkedin.com/in/william-huynh-582b62214/" target="_blank">
+          <a href="https://www.linkedin.com/in/williamhuynh227/" target="_blank">
             <img className="icon-linked" src={linkedinLogo}></img>
           </a>
           
