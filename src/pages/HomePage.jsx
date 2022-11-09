@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from '../components/NavBar';
 import '../index.css';
-import cat from '../assets/cat.png'
+import profPic from '../assets/prof-pic-5.jpg'
 import githubLogo from '../assets/github-logo.png'
 import linkedinLogo from '../assets/linkedin-logo.png'
 
@@ -17,7 +17,7 @@ const HomePage = () => {
             <h1 className="profile-title">
                   <span style={{fontWeight: 'bold'}}>William</span> Huynh
             </h1> 
-            <img src={cat} className="profile-image-small"></img>
+            <img src={profPic} className="profile-image-small"></img>
             <p>Hi! I'm Will :)</p>
             <br></br>
             <p>I'm a third-year student studying <span style={{fontWeight: 'bold'}}>Computer Science</span> at the <span style={{fontWeight: 'bold'}}>University of New South Wales.</span></p>
@@ -26,7 +26,7 @@ const HomePage = () => {
             <p>But anyways, welcome to my website! ^^</p>
           </div>
           <div className="profile-right">
-            <img src={cat} className="profile-image-large"></img>
+            <img src={profPic} className="profile-image-large"></img>
           </div>
         </div>
         
