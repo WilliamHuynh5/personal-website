@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from '../components/NavBar';
 import '../index.css';
-import profPic from '../assets/prof-pic-5.jpg'
+import profPic from '../assets/prof-pic.png'
 import githubLogo from '../assets/github-logo.png'
 import linkedinLogo from '../assets/linkedin-logo.png'
 
